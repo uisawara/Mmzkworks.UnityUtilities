@@ -1,0 +1,11 @@
+{
+	"name": "com.github.uisawara.mmzkworks.unityutilities",
+	"version": "0.0.1",
+	"displayName": "Mmzkworks.UnityUtilities",
+	"description": "Mmzkworks Unity utilities packages",
+	"unity": "2022.1",
+	"author": {
+		"name": "uisawara",
+		"url": "https://github.com/uisawara/Mmzkworks.UnityUtilities"
+	}
+}
