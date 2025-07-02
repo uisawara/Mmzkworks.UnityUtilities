@@ -1,5 +1,15 @@
 # Mmzkworks Unity Utilities
 
+## Installation
+
+### UPM
+
+Install via UPM (using Git URL)
+
+```
+https://github.com/uisawara/Mmzkworks.UnityUtilities.git?path=Assets/UnityPackages/Mmzkworks.UnityUtilities
+```
+
 ## Sample code
 
 ```c#
